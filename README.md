@@ -1,4 +1,9 @@
-# DS
+> [!CAUTION]
+> `github.com/ecnepsnai/set` is deprecated and replaced by [git.ecn.io/ian/set](https://git.ecn.io/ian/set).
+> All users should migrate to `git.ecn.io/ian/set` for continued updates. Tag v1.0.0 is drop-in compatible copy of the
+> last release of `github.com/ecnepsnai/set`.
+
+# Set
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/ecnepsnai/set?style=flat-square)](https://goreportcard.com/report/github.com/ecnepsnai/set)
 [![Godoc](https://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://pkg.go.dev/github.com/ecnepsnai/set)
